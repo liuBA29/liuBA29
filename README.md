@@ -1,6 +1,7 @@
 ## Hi there! 👋  
-I'm Liuba, a Python and Django enthusiast with experience in Bash scripting and website administration. 
-Currently, I manage **telecommunications.by** and work on improving my development skills.  
+I'm Liuba, a Python and Django enthusiast with experience in Bash scripting and website administration.  
+I created and currently manage **[telecommunications.by](https://telecommunications.by/)**, where I work on content, administration, and technical improvements.  
+  
 
 ### 🛠 Technologies I work with:  
 - **Backend:** Python, Django, REST API  
