@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! 👋  
+I'm Liuba, a Python and Django enthusiast with experience in Bash scripting and website administration. 
+Currently, I manage **telecommunications.by** and work on improving my development skills.  
 
-<!--
-**liuBA29/liuBA29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Technologies I work with:  
+- **Backend:** Python, Django, REST API  
+- **Scripting:** Bash, Linux CLI  
+- **Databases:** PostgreSQL, SQLite  
+- **Other:** Asterisk, Git, Docker (learning)  
 
-Here are some ideas to get you started:
+### 📫 How to reach me:  
+- 📧 Email: luba.sentino@gmail.com  
+- 💼 LinkedIn: not yet  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Projects I'm working on:  
+- [Project 1](https://github.com/liuBA29/project1) –  
+- [Project 2](https://github.com/liuBA29/project2) – 
