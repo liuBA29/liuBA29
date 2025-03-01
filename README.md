@@ -14,6 +14,7 @@ I created and currently manage **[telecommunications.by](https://telecommunicati
 - 💼 LinkedIn: not yet  
 
 
-### 🚀 Projects I'm working on:  
-- [Project 1](https://github.com/liuBA29/project1) –  
-- [Project 2](https://github.com/liuBA29/project2) – 
+### 🚀 Projects I'm working on: 
+- [**telecommunications.by**](https://telecommunications.by) – A website where I manage content, administration, and technical improvements.
+- [**scripts_for_asterisk**](https://github.com/liuBA29/scripts_for_asterisk) – A collection of scripts for Asterisk and Bash, including automation and system management scripts.
+- [**notes_project**](https://github.com/liuBA29/notes_project) – A **notes management application** in development using Django and PostgreSQL. This project is currently in progress, with features such as note creation, editing, and categorization.
